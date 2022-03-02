@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learn more about mobile developement and its arquitecture
+- 🥅 2022 Goals: Learn more about mobile development and its arquitecture
 
 
 ### Connect with me:
