@@ -1,39 +1,51 @@
-# Hi there, I'm Michell Hornung - 👋 
+# 👋 Olá, eu sou Michell Hornung
 
+### Senior Software Engineer | Java | Full Stack | Cloud | DevOps
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/michellhornung?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=michellhornung)
+<p align="left">
+  <a href="mailto:michellhornung@gmail.com">
+    <img src="https://img.shields.io/badge/Email-michellhornung%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://wa.me/5541987755195">
+    <img src="https://img.shields.io/badge/WhatsApp-Contato-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/michell-hornung-a05812b3/">
+    <img src="https://img.shields.io/badge/LinkedIn-Michell%20Hornung-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://github.com/michellhornung">
+    <img src="https://img.shields.io/badge/GitHub-michellhornung-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
 
+---
 
+## 🚀 Sobre mim
 
-## Protestant Christian father and drummer husband and also software engineer 🇩🇪🇧🇷😎
+Sou **Senior Software Engineer** com mais de **12 anos de experiência em engenharia de software**, atuando no desenvolvimento de aplicações corporativas, APIs, microsserviços, soluções Full Stack, Cloud e DevOps.
 
+Tenho forte experiência com **Java e Spring Boot**, além de atuação em frontend, arquitetura de sistemas distribuídos, mensageria, bancos de dados, containers, Kubernetes e pipelines de CI/CD.
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learn more about mobile development and its arquitecture
+Meu foco é construir soluções **escaláveis, seguras, testáveis e sustentáveis**, conectando qualidade técnica com necessidades reais do negócio.
 
+---
 
-### Connect with me:
+## 💻 Tech Stack
 
-[![website](./img/globe-light.svg)](https://mattcode.net#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://mattcode.net#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/michellhornung#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/michellhornung#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/michell-hornung-a05812b3/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/michell-hornung-a05812b3/r#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/michell.hornung#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/michell.hornung#gh-dark-mode-only)
+### ☕ Backend
 
+<p>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white">
+<img src="https://img.shields.io/badge/JPA-000000?style=for-the-badge">
+<img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge">
+</p>
 
-<br />
-<br />
+### 🌐 Frontend
 
-
-
-[website]: https://mattcode.net
-[twitter]: https://twitter.com/michellhornung
-[instagram]: https://www.instagram.com/michell.hornung/
-[linkedin]: https://www.linkedin.com/in/michell-hornung-a05812b3/
+<p>
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+<img src="https://img.shields.io/badge/Angular%2017-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+<img src="https://img.sh
